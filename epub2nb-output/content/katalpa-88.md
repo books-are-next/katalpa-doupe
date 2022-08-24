@@ -1,10 +1,9 @@
 ---
+title: Sešit
 contentType: prose
 ---
 
 <section>
-
-Sešit
 
 Sešit, do kterého si Jiří zapisoval jména svých milenek, má žluté desky a leží v zásuvce psacího stolu.
 

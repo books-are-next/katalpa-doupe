@@ -1,10 +1,9 @@
 ---
+title: Kapka krve
 contentType: prose
 ---
 
 <section>
-
-Kapka krve
 
 V noci se Květě zdá sen.
 

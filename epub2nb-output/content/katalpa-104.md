@@ -1,10 +1,9 @@
 ---
+title: Vůně manga
 contentType: prose
 ---
 
 <section>
-
-Vůně manga
 
 Hoang nemůže spát.
 

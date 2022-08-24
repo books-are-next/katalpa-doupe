@@ -1,10 +1,9 @@
 ---
+title: Mokro
 contentType: prose
 ---
 
 <section>
-
-Mokro
 
 Déšť se Bohumilu Ptáčkovi líbí.
 

@@ -1,10 +1,9 @@
 ---
+title: Proměna
 contentType: prose
 ---
 
 <section>
-
-Proměna
 
 Sedm dní není nic jiného než on a horečka.
 

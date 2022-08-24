@@ -1,10 +1,9 @@
 ---
+title: Radost
 contentType: prose
 ---
 
 <section>
-
-Radost
 
 Pošťák je Květinou kotvou.
 

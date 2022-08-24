@@ -1,10 +1,9 @@
 ---
+title: Dítě
 contentType: prose
 ---
 
 <section>
-
-Dítě
 
 Eva na sobě má kabát a volné kalhoty.
 

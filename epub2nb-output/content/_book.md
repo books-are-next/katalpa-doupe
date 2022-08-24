@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Katalpa-Jakuba-Doupe
   identifier: urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b
   author: creator
   publisher: Host – vydavatelství, s. r. o.
   modified: '2017-10-04T00:00:00.000Z'
+  contentType: prose
+  publisherShort: mkp
+  edition: Beletrie
 readingOrder:
   - promo.html
   - cover.html
@@ -169,6 +173,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

@@ -1,10 +1,9 @@
 ---
+title: Sněženky
 contentType: prose
 ---
 
 <section>
-
-Sněženky
 
 Na konci února už Květa cítí ve vzduchu jaro.
 

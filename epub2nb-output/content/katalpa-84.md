@@ -1,10 +1,9 @@
 ---
+title: Onkolog
 contentType: prose
 ---
 
 <section>
-
-Onkolog
 
 Hideki si svůj odjezd naplánoval na konec března.
 

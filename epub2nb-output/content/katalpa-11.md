@@ -1,10 +1,9 @@
 ---
+title: Fialky
 contentType: prose
 ---
 
 <section>
-
-Fialky
 
 V noci se Květě zdá o železářství v Dejvicích. Ve snu připomíná cukrárnu, do které ji jako dítě vodila maminka. Na pultě se třpytí skleněné nádoby s bonbóny. Za pultem stojí v modrém plášti pan Horák, který k maminčinu nákupu pokaždé přidal cukrový špalek nebo lékořicový suk navíc.
 

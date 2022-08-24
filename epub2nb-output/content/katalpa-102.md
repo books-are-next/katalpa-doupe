@@ -1,10 +1,9 @@
 ---
+title: Zápas
 contentType: prose
 ---
 
 <section>
-
-Zápas
 
 Když je Jaroslavovi šest týdnů, Eva s Alicí přijdou Květu navštívit.
 

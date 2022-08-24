@@ -1,10 +1,9 @@
 ---
+title: Čistota
 contentType: prose
 ---
 
 <section>
-
-Čistota
 
 Neděle by mohla být líná a příjemná.
 

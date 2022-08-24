@@ -1,10 +1,9 @@
 ---
+title: Pavučina
 contentType: prose
 ---
 
 <section>
-
-Pavučina
 
 Tu první noc, první společnou noc pod střechou, nemůže žádný z nich usnout.
 

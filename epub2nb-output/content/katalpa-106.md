@@ -1,10 +1,9 @@
 ---
+title: Dort
 contentType: prose
 ---
 
 <section>
-
-Dort
 
 Červen je měsíc, ve kterém Jiří slavil narozeniny.
 

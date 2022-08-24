@@ -1,10 +1,9 @@
 ---
+title: Vězení
 contentType: prose
 ---
 
 <section>
-
-Vězení
 
 Bohumil Ptáček má: náramkové hodinky, čokoládovou tyčinku, kterou vytáhl z kapsy bundy, a moře volného času.
 

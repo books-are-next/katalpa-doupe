@@ -1,10 +1,9 @@
 ---
+title: "Rejstřík v\_atlase"
 contentType: prose
 ---
 
 <section>
-
-Rejstřík v atlase
 
 V polovině ledna začne Akiko čurat krev.
 

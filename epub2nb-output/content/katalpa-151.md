@@ -1,10 +1,9 @@
 ---
+title: Bezpečí
 contentType: prose
 ---
 
 <section>
-
-Bezpečí
 
 Hoang zbyde několik útržků broskvově zbarveného hedvábí.
 

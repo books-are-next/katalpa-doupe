@@ -1,10 +1,9 @@
 ---
+title: Plán
 contentType: prose
 ---
 
 <section>
-
-Plán
 
 Tentýž den, kdy Hideki stojí vysoko nad Prahou, Květa zkoumá mapu města.
 

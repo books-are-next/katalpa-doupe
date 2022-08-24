@@ -1,10 +1,9 @@
 ---
+title: Zácpa
 contentType: prose
 ---
 
 <section>
-
-Zácpa
 
 To, že se musí vyprazdňovat do plastového kbelíku, Bohumila Ptáčka zpočátku ponižuje.
 

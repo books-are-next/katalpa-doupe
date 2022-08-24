@@ -1,10 +1,9 @@
 ---
+title: Navždy
 contentType: prose
 ---
 
 <section>
-
-Navždy
 
 Hideki si pořídil skener.
 

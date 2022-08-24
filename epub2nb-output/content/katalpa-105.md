@@ -1,10 +1,9 @@
 ---
+title: Časová pásma
 contentType: prose
 ---
 
 <section>
-
-Časová pásma
 
 Ve výšce deset tisíc metrů přelétá Hideki z Vietnamu do Číny.
 

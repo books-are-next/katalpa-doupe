@@ -1,10 +1,9 @@
 ---
+title: 'Liščí kožich '
 contentType: prose
 ---
 
 <section>
-
-Liščí kožich
 
 Nový rok 1939.
 

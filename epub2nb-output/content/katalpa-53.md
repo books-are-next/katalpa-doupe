@@ -1,10 +1,9 @@
 ---
+title: Jistota
 contentType: prose
 ---
 
 <section>
-
-Jistota
 
 Akiko tuší, že od ní Hideki odejde.
 

@@ -1,10 +1,9 @@
 ---
+title: Na cestě
 contentType: prose
 ---
 
 <section>
-
-Na cestě
 
 V polovině května má Hideki za sebou Střední a Jižní Ameriku, Havaj, Fidži a Nový Zéland.
 

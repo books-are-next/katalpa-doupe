@@ -1,10 +1,9 @@
 ---
+title: Pošťačka
 contentType: prose
 ---
 
 <section>
-
-Pošťačka
 
 Hoang sedí na židli před obchodem.
 

@@ -1,10 +1,9 @@
 ---
+title: Básně
 contentType: prose
 ---
 
 <section>
-
-Básně
 
 Květa čte Bohumilu Ptáčkovi o slivoních.
 

@@ -1,10 +1,9 @@
 ---
+title: Cizinec
 contentType: prose
 ---
 
 <section>
-
-Cizinec
 
 Hoang toho zákazníka vítá s širokým úsměvem.
 

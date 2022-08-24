@@ -1,10 +1,9 @@
 ---
+title: Dobře promazaný stroj
 contentType: prose
 ---
 
 <section>
-
-Dobře promazaný stroj
 
 Eva je nenasytná.
 

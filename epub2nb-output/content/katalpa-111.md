@@ -1,10 +1,9 @@
 ---
+title: Smrt
 contentType: prose
 ---
 
 <section>
-
-Smrt
 
 Akiko se probudí uprostřed noci s pocitem, že nemůže dýchat.
 

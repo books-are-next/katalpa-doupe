@@ -1,10 +1,9 @@
 ---
+title: Ztráta
 contentType: prose
 ---
 
 <section>
-
-Ztráta
 
 Hideki Ikeda se probudí do deštivého dne.
 

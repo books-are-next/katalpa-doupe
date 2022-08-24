@@ -1,10 +1,9 @@
 ---
+title: Akiko
 contentType: prose
 ---
 
 <section>
-
-Akiko
 
 Pohřeb je tichý a skromný.
 

@@ -1,10 +1,9 @@
 ---
+title: Chemoterapie
 contentType: prose
 ---
 
 <section>
-
-Chemoterapie
 
 Akiko Ikedaová váží čtyřicet pět kilogramů a měří metr šedesát.
 

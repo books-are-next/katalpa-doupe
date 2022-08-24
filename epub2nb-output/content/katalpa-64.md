@@ -1,10 +1,9 @@
 ---
+title: Kukla
 contentType: prose
 ---
 
 <section>
-
-Kukla
 
 Vánoce jsou tiché a rozpačité.
 

@@ -1,10 +1,9 @@
 ---
+title: Cesta
 contentType: prose
 ---
 
 <section>
-
-Cesta
 
 Hidekimu to přijde jako dobrý nápad.
 

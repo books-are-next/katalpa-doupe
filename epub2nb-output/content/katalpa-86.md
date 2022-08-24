@@ -1,10 +1,9 @@
 ---
+title: Zahrada
 contentType: prose
 ---
 
 <section>
-
-Zahrada
 
 Přicházející jaro naplní Květu energií.
 

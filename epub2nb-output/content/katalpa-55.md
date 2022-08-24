@@ -1,10 +1,9 @@
 ---
+title: Zázrak
 contentType: prose
 ---
 
 <section>
-
-Zázrak
 
 Do Štědrého dne zbývá necelý týden.
 

@@ -1,10 +1,9 @@
 ---
+title: Nezvěstný
 contentType: prose
 ---
 
 <section>
-
-Nezvěstný
 
 Uštvaný a hladový Bohumil Ptáček celý druhý den prospí.
 

@@ -1,10 +1,9 @@
 ---
+title: Vyprávění
 contentType: prose
 ---
 
 <section>
-
-Vyprávění
 
 Květino vyprávění připomíná dobře upředenou nit.
 

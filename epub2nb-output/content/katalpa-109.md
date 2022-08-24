@@ -1,10 +1,9 @@
 ---
+title: Podezření
 contentType: prose
 ---
 
 <section>
-
-Podezření
 
 Zahrada v červnu je radost.
 

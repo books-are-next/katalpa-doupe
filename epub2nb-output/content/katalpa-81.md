@@ -1,10 +1,9 @@
 ---
+title: Kluk
 contentType: prose
 ---
 
 <section>
-
-Kluk
 
 Když je Květa ve městě, všimne si obchodu s dětským oblečením.
 

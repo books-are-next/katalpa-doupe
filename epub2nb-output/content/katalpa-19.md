@@ -1,10 +1,9 @@
 ---
+title: Narozeniny
 contentType: prose
 ---
 
 <section>
-
-Narozeniny
 
 Jedenáctého září slaví Květa sedmdesáté druhé narozeniny.
 

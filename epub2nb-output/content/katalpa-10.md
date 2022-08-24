@@ -1,10 +1,9 @@
 ---
+title: Nákup
 contentType: prose
 ---
 
 <section>
-
-Nákup
 
 Hobbymarket Květě připomíná moře. Chvíli nedává pozor, a je v něm ztracená. Z reproduktorů se ozývá hudba, lesklé vozíky naplněné zbožím sebevědomě křižují pravoúhlé uličky.
 

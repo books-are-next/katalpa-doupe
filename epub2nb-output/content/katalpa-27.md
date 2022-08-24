@@ -1,10 +1,9 @@
 ---
+title: Brooklynský most
 contentType: prose
 ---
 
 <section>
-
-Brooklynský most
 
 Hideki Ikeda se miluje se svou ženou.
 

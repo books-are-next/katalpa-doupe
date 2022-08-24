@@ -1,10 +1,9 @@
 ---
+title: Čtení
 contentType: prose
 ---
 
 <section>
-
-Čtení
 
 Rozhodnutí pustit Bohumila Ptáčka v Květě uzrálo spolu s rozhodnutím mlčet.
 

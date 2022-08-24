@@ -1,10 +1,9 @@
 ---
+title: "Datlovník v\_meruňkovém sadu"
 contentType: prose
 ---
 
 <section>
-
-Datlovník v meruňkovém sadu
 
 Květa se potřebuje ubezpečit, že rozhodnutí propustit Bohumila Ptáčka je správné.
 

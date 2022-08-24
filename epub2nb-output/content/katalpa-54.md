@@ -1,10 +1,9 @@
 ---
+title: Čaj
 contentType: prose
 ---
 
 <section>
-
-Čaj
 
 Hoang hlídá muže, který opravuje mrazicí box.
 

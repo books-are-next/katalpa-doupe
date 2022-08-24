@@ -1,10 +1,9 @@
 ---
+title: Kniha
 contentType: prose
 ---
 
 <section>
-
-Kniha
 
 Prvního prosince, při ranním doručování, najde Bohumil Ptáček před jedním antikvariátem bednu s vyřazenými knihami. Vnoří do ní ruce a chvíli se knihami probírá. Nakonec si vybere Pěnu dní Borise Viana (nikdy o něm neslyšel), odnese si ji domů a začne ji číst.
 

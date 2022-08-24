@@ -1,10 +1,9 @@
 ---
+title: Tanec
 contentType: prose
 ---
 
 <section>
-
-Tanec
 
 Bohumil Ptáček myslí na Marii.
 

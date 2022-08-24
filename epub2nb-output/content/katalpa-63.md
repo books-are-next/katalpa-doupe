@@ -1,10 +1,9 @@
 ---
+title: Šála
 contentType: prose
 ---
 
 <section>
-
-Šála
 
 Na Štědrý den ráno přinese Květa do doupěte rádio.
 

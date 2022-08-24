@@ -1,10 +1,9 @@
 ---
+title: Jaro
 contentType: prose
 ---
 
 <section>
-
-Jaro
 
 Hoang Thi Anhová ví, že přichází jaro.
 

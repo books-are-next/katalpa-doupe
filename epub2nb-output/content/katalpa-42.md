@@ -1,10 +1,9 @@
 ---
+title: Lov
 contentType: prose
 ---
 
 <section>
-
-Lov
 
 Jde to snadněji, než Květa očekávala.
 

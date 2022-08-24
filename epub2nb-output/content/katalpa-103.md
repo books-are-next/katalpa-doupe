@@ -1,10 +1,9 @@
 ---
+title: Noc
 contentType: prose
 ---
 
 <section>
-
-Noc
 
 Od chvíle, kdy se Bohumil Ptáček uzdravil, ho Květa bere pravidelně ven.
 

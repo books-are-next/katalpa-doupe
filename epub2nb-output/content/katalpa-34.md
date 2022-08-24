@@ -1,10 +1,9 @@
 ---
+title: Televize
 contentType: prose
 ---
 
 <section>
-
-Televize
 
 Bohumil Ptáček nemá ani tušení, že s ním má Květa nějaké plány.
 

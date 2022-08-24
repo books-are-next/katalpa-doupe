@@ -1,10 +1,9 @@
 ---
+title: Past
 contentType: prose
 ---
 
 <section>
-
-Past
 
 Dopisy si Květa začala posílat v říjnu.
 

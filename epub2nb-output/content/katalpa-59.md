@@ -1,10 +1,9 @@
 ---
+title: Hluk
 contentType: prose
 ---
 
 <section>
-
-Hluk
 
 Květa si prohlíží oblečení, které pro Bohumila Ptáčka nakoupila.
 

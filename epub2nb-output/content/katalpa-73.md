@@ -1,10 +1,9 @@
 ---
+title: Hladina řeky
 contentType: prose
 ---
 
 <section>
-
-Hladina řeky
 
 Hedvábí, které si Hoang přivezla z Vietnamu, má broskvovou barvu.
 

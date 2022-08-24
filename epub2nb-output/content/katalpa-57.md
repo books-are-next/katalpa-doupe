@@ -1,10 +1,9 @@
 ---
+title: Sníh
 contentType: prose
 ---
 
 <section>
-
-Sníh
 
 Z neznámého popudu koupí Akiko Hidekimu k Vánocům kravatu.
 

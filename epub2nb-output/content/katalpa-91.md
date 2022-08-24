@@ -1,10 +1,9 @@
 ---
+title: Knoflík
 contentType: prose
 ---
 
 <section>
-
-Knoflík
 
 Hideki má sbaleno na cestu.
 

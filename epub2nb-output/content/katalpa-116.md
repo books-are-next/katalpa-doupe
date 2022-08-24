@@ -1,10 +1,9 @@
 ---
+title: Les
 contentType: prose
 ---
 
 <section>
-
-Les
 
 Sen o tom, že se ztratila v lese, se Květě zdá několikrát.
 

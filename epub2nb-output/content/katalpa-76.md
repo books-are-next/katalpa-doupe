@@ -1,10 +1,9 @@
 ---
+title: Pozorovatelka
 contentType: prose
 ---
 
 <section>
-
-Pozorovatelka
 
 Hoang je trpělivá.
 

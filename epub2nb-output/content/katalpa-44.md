@@ -1,10 +1,9 @@
 ---
+title: Strach
 contentType: prose
 ---
 
 <section>
-
-Strach
 
 Bohumil Ptáček je chycený v malé místnosti ve sklepení domu.
 

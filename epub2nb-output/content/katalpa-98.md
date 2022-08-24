@@ -1,10 +1,9 @@
 ---
+title: Jabloň
 contentType: prose
 ---
 
 <section>
-
-Jabloň
 
 Květa spí při pootevřeném okně.
 

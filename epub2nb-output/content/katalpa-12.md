@@ -1,10 +1,9 @@
 ---
+title: Podlaha
 contentType: prose
 ---
 
 <section>
-
-Podlaha
 
 Zatímco její dcera počítá tržbu, Hoang Thi Anhová vytírá podlahu obchodu.
 

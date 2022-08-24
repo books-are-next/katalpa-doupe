@@ -1,10 +1,9 @@
 ---
+title: Tajemství
 contentType: prose
 ---
 
 <section>
-
-Tajemství
 
 Suong slaví narozeniny a Hoang se rozhodla uspořádat oslavu.
 

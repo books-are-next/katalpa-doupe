@@ -1,10 +1,9 @@
 ---
+title: Písečný muž
 contentType: prose
 ---
 
 <section>
-
-Písečný muž
 
 Potřeby i možnosti Bohumila Ptáčka jsou redukovány na minimum.
 
