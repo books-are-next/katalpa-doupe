@@ -1,10 +1,9 @@
 ---
+title: Oceán ve vaně
 contentType: prose
 ---
 
 <section>
-
-Oceán ve vaně
 
 Říká se tomu paliativní péče.
 

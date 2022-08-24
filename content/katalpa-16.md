@@ -1,10 +1,9 @@
 ---
+title: Dětství
 contentType: prose
 ---
 
 <section>
-
-Dětství
 
 Květa vyrostla ve velkém bytě na Vinohradech.
 

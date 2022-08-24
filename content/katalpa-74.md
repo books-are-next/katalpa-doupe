@@ -1,10 +1,9 @@
 ---
+title: Fotoaparát VI
 contentType: prose
 ---
 
 <section>
-
-Fotoaparát VI
 
 Hideki stojí v obchodě s elektronikou na Ridgewood Avenue a vybírá si fotoaparát.
 

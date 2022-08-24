@@ -1,10 +1,9 @@
 ---
+title: Stromy
 contentType: prose
 ---
 
 <section>
-
-Stromy
 
 Květa má celou řadu knih o zahradničení. Prochází si je a uvažuje, která z nich bude pro Bohumila Ptáčka nejvhodnější. Nakonec vybere Rok v zahradě. Sejde do doupěte, vezme si židli, postaví ji ke dveřím a začne číst. Čte pomalu a zřetelně, často dělá pauzy. Bohumil Ptáček tiše naslouchá, jako by mu četla napínavý román.
 

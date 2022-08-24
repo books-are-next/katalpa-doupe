@@ -1,10 +1,9 @@
 ---
+title: Hlad
 contentType: prose
 ---
 
 <section>
-
-Hlad
 
 Na kuchyňském stole leží tác se závinem, který Květa upekla, a revolver.
 

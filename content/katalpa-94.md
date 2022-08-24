@@ -1,10 +1,9 @@
 ---
+title: Stud
 contentType: prose
 ---
 
 <section>
-
-Stud
 
 Za sto dvacet dní, které strávil v doupěti, vyrostly Bohumilu Ptáčkovi vlasy o několik centimetrů, takže se teď dotýkají límce košile.
 

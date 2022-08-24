@@ -1,10 +1,9 @@
 ---
+title: Oko hurikánu
 contentType: prose
 ---
 
 <section>
-
-Oko hurikánu
 
 Neděle je sychravá.
 

@@ -1,10 +1,9 @@
 ---
+title: Procházka
 contentType: prose
 ---
 
 <section>
-
-Procházka
 
 Odpoledne se jde Květa po těžké práci projít.
 

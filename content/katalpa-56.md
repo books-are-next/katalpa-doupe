@@ -1,10 +1,9 @@
 ---
+title: Trest
 contentType: prose
 ---
 
 <section>
-
-Trest
 
 Bohumil Ptáček na ni nezaútočí, ani když mu přinese oběd a večeři.
 

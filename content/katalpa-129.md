@@ -1,10 +1,9 @@
 ---
+title: Překvapení
 contentType: prose
 ---
 
 <section>
-
-Překvapení
 
 Jeseniova ulice je na Žižkově.
 

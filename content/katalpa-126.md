@@ -1,10 +1,9 @@
 ---
+title: Chléb
 contentType: prose
 ---
 
 <section>
-
-Chléb
 
 Odpoledne přestane pršet.
 

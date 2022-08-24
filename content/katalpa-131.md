@@ -1,10 +1,9 @@
 ---
+title: Mlčení
 contentType: prose
 ---
 
 <section>
-
-Mlčení
 
 Ten den začne stejně jako všechny ostatní.
 

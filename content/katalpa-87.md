@@ -1,10 +1,9 @@
 ---
+title: Marie
 contentType: prose
 ---
 
 <section>
-
-Marie
 
 Občas Bohumil Ptáček myslí na útěk.
 

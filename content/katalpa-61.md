@@ -1,10 +1,9 @@
 ---
+title: Policie
 contentType: prose
 ---
 
 <section>
-
-Policie
 
 Policie přijde dvaadvacátého prosince.
 

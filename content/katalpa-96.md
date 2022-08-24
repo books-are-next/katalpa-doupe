@@ -1,10 +1,9 @@
 ---
+title: Fotografie
 contentType: prose
 ---
 
 <section>
-
-Fotografie
 
 První várka fotografií přijde Akiko patnáct dní po Hidekiho odjezdu.
 

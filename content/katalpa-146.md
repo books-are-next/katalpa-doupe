@@ -1,10 +1,9 @@
 ---
+title: Šaty
 contentType: prose
 ---
 
 <section>
-
-Šaty
 
 Hoang měří a stříhá.
 

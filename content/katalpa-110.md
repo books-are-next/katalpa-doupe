@@ -1,10 +1,9 @@
 ---
+title: Pláč
 contentType: prose
 ---
 
 <section>
-
-Pláč
 
 Květa má na zahradě několik ptačích budek a kameninové pítko, kam se slétají vrabci a sýkorky.
 

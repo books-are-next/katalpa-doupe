@@ -1,10 +1,9 @@
 ---
+title: Rovnováha
 contentType: prose
 ---
 
 <section>
-
-Rovnováha
 
 Místnost ve sklepě je izolovaná, okno zatlučené.
 

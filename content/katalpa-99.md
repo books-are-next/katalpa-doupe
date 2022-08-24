@@ -1,10 +1,9 @@
 ---
+title: Nemoc
 contentType: prose
 ---
 
 <section>
-
-Nemoc
 
 Týden poté, co byl venku, Bohumil Ptáček onemocní.
 

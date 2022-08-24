@@ -1,10 +1,9 @@
 ---
+title: Cesta domů
 contentType: prose
 ---
 
 <section>
-
-Cesta domů
 
 Hideki Ikeda letí z ruzyňského letiště přes Frankfurt a Chicago do Minneapolisu.
 

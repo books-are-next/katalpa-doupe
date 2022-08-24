@@ -1,10 +1,9 @@
 ---
+title: Dobrý nápad
 contentType: prose
 ---
 
 <section>
-
-Dobrý nápad
 
 Hoang strouhá staré rohlíky, které jim zbyly v obchodě.
 

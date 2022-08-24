@@ -1,10 +1,9 @@
 ---
+title: Sen
 contentType: prose
 ---
 
 <section>
-
-Sen
 
 Hoang se zdá o kachně.
 

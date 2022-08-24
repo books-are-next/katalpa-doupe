@@ -1,10 +1,9 @@
 ---
+title: Fotoaparát V
 contentType: prose
 ---
 
 <section>
-
-Fotoaparát V
 
 Po Vánocích nastane období slev a výprodejů.
 

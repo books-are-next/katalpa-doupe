@@ -1,10 +1,9 @@
 ---
+title: Kocour
 contentType: prose
 ---
 
 <section>
-
-Kocour
 
 Na tom mít muže, o kterého může pečovat, je něco konejšivého.
 

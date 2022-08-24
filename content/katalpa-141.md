@@ -1,10 +1,9 @@
 ---
+title: Díra
 contentType: prose
 ---
 
 <section>
-
-Díra
 
 Hoang se zdá, že v hedvábí, které přivezla z Vietnamu, je díra.
 

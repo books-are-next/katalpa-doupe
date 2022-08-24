@@ -1,10 +1,9 @@
 ---
+title: Velká čínská zeď
 contentType: prose
 ---
 
 <section>
-
-Velká čínská zeď
 
 V lednu je Minneapolis zapadaný sněhem.
 

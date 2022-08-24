@@ -1,10 +1,9 @@
 ---
+title: Odvaha
 contentType: prose
 ---
 
 <section>
-
-Odvaha
 
 Druhý týden v květnu Květu navštíví Eva s Alicí a novorozeným dítětem.
 

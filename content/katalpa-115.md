@@ -1,10 +1,9 @@
 ---
+title: Štěstí
 contentType: prose
 ---
 
 <section>
-
-Štěstí
 
 Horko červencových dní proniklo i do doupěte; pošťák sedává na matraci jen v trenýrkách a nátělníku.
 

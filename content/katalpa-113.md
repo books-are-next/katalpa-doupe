@@ -1,10 +1,9 @@
 ---
+title: Maminka
 contentType: prose
 ---
 
 <section>
-
-Maminka
 
 S příchodem teplých letních dnů se Květě začne zdát o mamince.
 

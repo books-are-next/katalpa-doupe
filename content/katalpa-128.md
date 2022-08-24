@@ -1,10 +1,9 @@
 ---
+title: Úleva
 contentType: prose
 ---
 
 <section>
-
-Úleva
 
 Proud slov, kterými Hidekiho zahrnuje stará žena, mu připomene japonštinu.
 

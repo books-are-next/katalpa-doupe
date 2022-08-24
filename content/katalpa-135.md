@@ -1,10 +1,9 @@
 ---
+title: Katastrofa
 contentType: prose
 ---
 
 <section>
-
-Katastrofa
 
 Květa, omámená tou novou možností, totiž tím, že může mlčet, sejde do doupěte.
 

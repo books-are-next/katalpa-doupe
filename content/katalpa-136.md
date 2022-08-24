@@ -1,10 +1,9 @@
 ---
+title: Ticho
 contentType: prose
 ---
 
 <section>
-
-Ticho
 
 Když Květa Bohumilu Ptáčkovi oznámí, že už mu nemá co vykládat, zatočí se s ním svět.
 

@@ -1,10 +1,9 @@
 ---
+title: Káva
 contentType: prose
 ---
 
 <section>
-
-Káva
 
 Pokaždé, než sejde do sklepa, se Květa lehce nalíčí.
 

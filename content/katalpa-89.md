@@ -1,10 +1,9 @@
 ---
+title: Věrnost
 contentType: prose
 ---
 
 <section>
-
-Věrnost
 
 Bohumil Ptáček se koupe. Sedí ve vaně a mydlí si ruce, nohy a obličej. Květa ho zvědavě pozoruje. Pošťák má těstovité bledé tělo, dlouhé paže a nohy porostlé zakroucenými černými chlupy.
 

@@ -1,10 +1,9 @@
 ---
+title: Sůl
 contentType: prose
 ---
 
 <section>
-
-Sůl
 
 V srpnu roku 1955 vila na Hanspaulce už několik let patří státu.
 

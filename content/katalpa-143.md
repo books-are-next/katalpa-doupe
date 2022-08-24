@@ -1,10 +1,9 @@
 ---
+title: Rozhodnutí
 contentType: prose
 ---
 
 <section>
-
-Rozhodnutí
 
 Květa si prohlíží staré fotografie.
 

@@ -1,10 +1,9 @@
 ---
+title: Měkkost
 contentType: prose
 ---
 
 <section>
-
-Měkkost
 
 Podkroví, kde bydlí Ukrajinka Lara se svou dcerou, je vykrojené z půdy.
 

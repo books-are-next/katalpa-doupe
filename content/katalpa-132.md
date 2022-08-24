@@ -1,10 +1,9 @@
 ---
+title: Horko
 contentType: prose
 ---
 
 <section>
-
-Horko
 
 Bohumil Ptáček netuší, že konec jeho věznění je na dosah.
 

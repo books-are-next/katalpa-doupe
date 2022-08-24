@@ -1,10 +1,9 @@
 ---
+title: Až pokvetou stromy
 contentType: prose
 ---
 
 <section>
-
-Až pokvetou stromy
 
 Duben je zasvěcen čekání na dítě.
 

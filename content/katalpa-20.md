@@ -1,10 +1,9 @@
 ---
+title: Píseň
 contentType: prose
 ---
 
 <section>
-
-Píseň
 
 Hoang Thi Anhová leží na rozkládací pohovce a v duchu si představuje jídla, která připravovala, když ještě žila v Hanoji.
 

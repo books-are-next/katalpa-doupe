@@ -1,10 +1,9 @@
 ---
+title: Doupě
 contentType: prose
 ---
 
 <section>
-
-Doupě
 
 Vila, ve které Květa žije, stojí na svém místě téměř sedmdesát let. Podobá se zubu v dásni, usazená v dlouhé čelisti Fetrovské ulice, a metry potrubí a elektroinstalace se napojuje na nervový systém Prahy.
 

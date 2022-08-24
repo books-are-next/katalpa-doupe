@@ -1,10 +1,9 @@
 ---
+title: Stesk
 contentType: prose
 ---
 
 <section>
-
-Stesk
 
 Listopadové noci v Praze jsou studené a deštivé.
 

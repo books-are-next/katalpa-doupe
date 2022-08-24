@@ -1,10 +1,9 @@
 ---
+title: Vůně
 contentType: prose
 ---
 
 <section>
-
-Vůně
 
 Květa se probudí v dobré náladě, kolem deváté.
 

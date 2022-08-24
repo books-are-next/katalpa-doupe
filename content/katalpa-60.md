@@ -1,10 +1,9 @@
 ---
+title: Nahota
 contentType: prose
 ---
 
 <section>
-
-Nahota
 
 Koupání proběhne tak, že Květa, s revolverem v napřažené ruce, donutí Bohumila Ptáčka jít před sebou do prádelny.
 

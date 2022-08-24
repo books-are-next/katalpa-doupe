@@ -1,10 +1,9 @@
 ---
+title: Loďka
 contentType: prose
 ---
 
 <section>
-
-Loďka
 
 Bohumil Ptáček po sytém obědě spí.
 

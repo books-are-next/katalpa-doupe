@@ -1,10 +1,9 @@
 ---
+title: Hideki
 contentType: prose
 ---
 
 <section>
-
-Hideki
 
 Akiko si těsně před smrtí uvědomuje celé své tělo.
 

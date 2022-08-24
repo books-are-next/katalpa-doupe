@@ -1,10 +1,9 @@
 ---
+title: První pražský snímek
 contentType: prose
 ---
 
 <section>
-
-První pražský snímek
 
 Z Evropy zatím Hideki viděl Turecko, Řecko a Itálii; zbývá mu Německo a Francie.
 

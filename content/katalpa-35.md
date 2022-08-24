@@ -1,10 +1,9 @@
 ---
+title: Revolver
 contentType: prose
 ---
 
 <section>
-
-Revolver
 
 Květa si prohlíží revolver, který vytáhla ze zásuvky v Jiřího pracovně.
 

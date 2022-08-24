@@ -1,10 +1,9 @@
 ---
+title: Nezvaný host
 contentType: prose
 ---
 
 <section>
-
-Nezvaný host
 
 Hideki je už tři dny doma.
 

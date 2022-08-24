@@ -1,10 +1,9 @@
 ---
+title: "Dívka v\_puntíkatých šatech"
 contentType: prose
 ---
 
 <section>
-
-Dívka v puntíkatých šatech
 
 Stáří zatím není tak hrozné, jak se Květa obávala.
 

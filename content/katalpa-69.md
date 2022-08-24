@@ -1,10 +1,9 @@
 ---
+title: Vzkaz
 contentType: prose
 ---
 
 <section>
-
-Vzkaz
 
 Před spaním Bohumil Ptáček uvažuje, kolik mohla tahle stařena za život nastřádat příběhů.
 

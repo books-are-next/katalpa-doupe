@@ -1,10 +1,9 @@
 ---
+title: Prázdno
 contentType: prose
 ---
 
 <section>
-
-Prázdno
 
 Květen je teplý a plný vůní.
 

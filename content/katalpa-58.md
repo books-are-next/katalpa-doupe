@@ -1,10 +1,9 @@
 ---
+title: Svoboda
 contentType: prose
 ---
 
 <section>
-
-Svoboda
 
 Bohumil Ptáček je v doupěti už pátý den.
 

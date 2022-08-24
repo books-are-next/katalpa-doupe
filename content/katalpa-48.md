@@ -1,10 +1,9 @@
 ---
+title: Pod hladinou
 contentType: prose
 ---
 
 <section>
-
-Pod hladinou
 
 Téže noci, kdy se Květa, rozrušená, ale šťastná, beze spánku převaluje na posteli a Bohumil Ptáček v doupěti pláče, si Hideki Ikeda prohlíží dárky, které koupil Akiko k Vánocům.
 

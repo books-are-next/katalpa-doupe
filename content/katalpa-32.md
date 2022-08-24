@@ -1,10 +1,9 @@
 ---
+title: Zmrzlina
 contentType: prose
 ---
 
 <section>
-
-Zmrzlina
 
 V podpůrné skupině postižených rakovinou je celkem třináct lidí.
 

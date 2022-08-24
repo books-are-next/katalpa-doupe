@@ -1,10 +1,9 @@
 ---
+title: Trpělivost
 contentType: prose
 ---
 
 <section>
-
-Trpělivost
 
 Přelom července a srpna je deštivý.
 

@@ -1,10 +1,9 @@
 ---
+title: Fotoaparát IV
 contentType: prose
 ---
 
 <section>
-
-Fotoaparát IV
 
 Prodavač elektroniky na Ridgewood Avenue stahuje přes výlohu mřížovanou roletu.
 

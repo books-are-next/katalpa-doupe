@@ -1,10 +1,9 @@
 ---
+title: Dům
 contentType: prose
 ---
 
 <section>
-
-Dům
 
 Květa Bohumilu Ptáčkovi vypráví o vile, ve které je uvězněný jako ptačí plod ve skořápce.
 

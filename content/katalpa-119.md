@@ -1,10 +1,9 @@
 ---
+title: Bez úlevy
 contentType: prose
 ---
 
 <section>
-
-Bez úlevy
 
 Bolest pohltí všechny Akičiny myšlenky.
 

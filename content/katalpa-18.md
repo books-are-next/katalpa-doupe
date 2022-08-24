@@ -1,10 +1,9 @@
 ---
+title: Okno
 contentType: prose
 ---
 
 <section>
-
-Okno
 
 Září je teplé.
 

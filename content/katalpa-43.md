@@ -1,10 +1,9 @@
 ---
+title: "Žena s\_taškou"
 contentType: prose
 ---
 
 <section>
-
-Žena s taškou
 
 Patnáctého prosince vstane Hoang v sedm hodin ráno.
 

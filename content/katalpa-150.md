@@ -1,10 +1,9 @@
 ---
+title: Odchod
 contentType: prose
 ---
 
 <section>
-
-Odchod
 
 Desátého září Květa přemýšlí o tom, co udělá Bohumilu Ptáčkovi k poslední večeři v doupěti.
 

@@ -1,10 +1,9 @@
 ---
+title: Ztracená
 contentType: prose
 ---
 
 <section>
-
-Ztracená
 
 Hoang nenávidí nakupování ve velkém obchodě.
 

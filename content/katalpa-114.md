@@ -1,10 +1,9 @@
 ---
+title: Telefonát
 contentType: prose
 ---
 
 <section>
-
-Telefonát
 
 Na začátku července přilétá Hideki z Istanbulu do Atén.
 

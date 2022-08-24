@@ -1,10 +1,9 @@
 ---
+title: Noční košile
 contentType: prose
 ---
 
 <section>
-
-Noční košile
 
 Hideki je v obchodě s dámským prádlem.
 

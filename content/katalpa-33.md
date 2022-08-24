@@ -1,10 +1,9 @@
 ---
+title: Modrá
 contentType: prose
 ---
 
 <section>
-
-Modrá
 
 Na začátku listopadu se Květa vypraví na hřbitov.
 

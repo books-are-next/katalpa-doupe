@@ -1,10 +1,9 @@
 ---
+title: Láska
 contentType: prose
 ---
 
 <section>
-
-Láska
 
 Štafle jsou zacákané od barvy.
 

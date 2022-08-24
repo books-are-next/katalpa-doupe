@@ -1,10 +1,9 @@
 ---
+title: "Nakládaný zázvor a\_hedvábí"
 contentType: prose
 ---
 
 <section>
-
-Nakládaný zázvor a hedvábí
 
 Hoang Thi Anhová je v Praze přesně deset let.
 

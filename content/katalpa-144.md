@@ -1,10 +1,9 @@
 ---
+title: Úzkost
 contentType: prose
 ---
 
 <section>
-
-Úzkost
 
 Bohumil Ptáček, ukrytý v doupěti jako muška v jantaru, myslí na svůj minulý život jako na něco, co se přihodilo někomu jinému.
 

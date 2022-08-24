@@ -1,10 +1,9 @@
 ---
+title: Beze snů
 contentType: prose
 ---
 
 <section>
-
-Beze snů
 
 Hideki spí.
 

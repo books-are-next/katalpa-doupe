@@ -1,10 +1,9 @@
 ---
+title: Zrnka rýže
 contentType: prose
 ---
 
 <section>
-
-Zrnka rýže
 
 Od chvíle, kdy se Hoang svěřila neznámému cizinci, je mnohem klidnější.
 

@@ -1,10 +1,9 @@
 ---
+title: "Květa a\_Jiří"
 contentType: prose
 ---
 
 <section>
-
-Květa a Jiří
 
 Účetní oddělení jedné z pražských mlékáren sídlí nedaleko Vinohradské třídy, kde Květa bydlí, takže do práce může chodit pěšky.
 

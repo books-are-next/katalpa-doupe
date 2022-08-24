@@ -1,10 +1,9 @@
 ---
+title: "Hideki a\_Akiko"
 contentType: prose
 ---
 
 <section>
-
-Hideki a Akiko
 
 V roce 1980 je Akiko pětadvacet let.
 
