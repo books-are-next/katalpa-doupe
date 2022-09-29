@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "katalpa-doupe-8c07592",
-  "revision": "8c07592",
+  "identifier": "katalpa-doupe-a8df0d2",
+  "revision": "a8df0d2",
   "readingOrder": [
     "promo.html",
     "katalpa-4.html",
@@ -163,8 +163,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Wed Aug 24 2022 09:54:35 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1661334875572
+    "date": "Thu Sep 29 2022 21:26:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486802853
   },
   "documents": [
     {
